@@ -1,0 +1,3 @@
+Barbearia, sistema de agendamento
+O projeto trata do desenvolvimento de um sistema de agendamento, no qual o cliente acessa uma plataforma dedicada e deve informar seu nome, além de escolher uma data disponível para realizar o corte de cabelo.
+O barbeiro receberá a solicitação realizada e fará o gerenciamento dos agendamentos diretamente pela plataforma.
