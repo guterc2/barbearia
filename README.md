@@ -32,3 +32,24 @@ style.css → Estilização da interface
 script.js → Lógica do sistema
 img/preview.png → Imagem do sistema
 
+Organização de pasta
+
+barbearia-agendamento/
+│
+├── index.html
+│
+├── css/
+│   ├── style.css
+│   └── responsive.css
+│
+├── js/
+│   ├── script.js
+│   ├── agendamento.js
+│   └── storage.js
+│
+├── img/
+│   ├── preview.png
+│   └── uml.png
+│
+└── README.md
+
