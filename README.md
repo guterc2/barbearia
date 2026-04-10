@@ -43,9 +43,11 @@ barbearia-agendamento/
 │   └── responsive.css
 │
 ├── js/
-│   ├── script.js
-│   ├── agendamento.js
-│   └── storage.js
+│   ├── script.js        
+│   ├── cliente.js       
+│   ├── agendamento.js   
+│   ├── sistema.js       
+│   └── storage.js       
 │
 ├── img/
 │   ├── preview.png
